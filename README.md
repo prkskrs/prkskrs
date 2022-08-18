@@ -17,7 +17,7 @@ I am a Backend Developer and Data Scientist who is exploring Node.js, Django and
 
 # 📊 My Github Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prkskrs&theme=dark&show_icons=true&locale=en&layout=compact" alt="prkskrs" /></p>
-<p><img align="right" src="https://github.com/prkskrs/prkskrs/blob/master/kindpng_9295.png" alt="prkskrs" width="400" height="400"/></p><br>
+<p><img align="right" src="https://github.com/prkskrs/prkskrs/blob/master/kindpng_9295.png" alt="prkskrs" width="350" height="350"/></p><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prkskrs&theme=dark&show_icons=true&locale=en" alt="prkskrs" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prkskrs&theme=dark&" alt="prkskrs" /></p>
 
