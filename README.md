@@ -1,7 +1,10 @@
 # Hey Prakash Here 👋
 
 I am a Backend Developer and Data Scientist who is exploring Node.js, Django and Python. I am having a strong passion to work in broad areas of IT to achieve organizational goals, personal growth, and professional satisfaction through hard work, loyalty and positive attitude.<br><br>
-🔭 I’m currently working on Image Similarity Model. <br>👯 I’m looking to collaborate on MERN Project.<br>🌱 I’m currently learning Node.js <br>💬 Ask me about Node.js, Django and Data Science.<br> 
+🔭 I’m currently working on Image Similarity Model. <br>
+👯 I’m looking to collaborate on MERN Project.<br>
+🌱 I’m currently learning Node.js <br>
+💬 Ask me about Node.js, Django and Data Science.<br> 
 
 
 ---
