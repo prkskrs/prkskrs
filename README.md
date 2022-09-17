@@ -1,4 +1,10 @@
-# Hey Prakash Here 👋
+# <h2 align="left">
+    Hey, Prakash Here.
+    <img src="https://github.com/CatalystsReachOut/.github/blob/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+</h2>
 
 I am a Backend Developer and Data Scientist who is exploring Node.js, Django and Python. I am having a strong passion to work in broad areas of IT to achieve organizational goals, personal growth, and professional satisfaction through hard work, loyalty and positive attitude.<br><br>
 🔭 I’m currently working on NLP Project. <br>
