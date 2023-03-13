@@ -16,6 +16,7 @@ I am a backend developer and data scientist that focuses on NodeJS and TypeScrip
 ## Get in touch
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prkskrs/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prakash-singh-89654821b/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@prkskrs) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Secure_Nose_5735/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/19761939/prakash-singh?tab=profile) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/prkskrs) 
 <br>
+
 ## Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -37,17 +38,10 @@ I am a backend developer and data scientist that focuses on NodeJS and TypeScrip
 
 <br>
 
-
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prkskrs&theme=dark&layout=compact)](https://github.com/prkskrs)
 
 <p><img align="right" src="https://github.com/prkskrs/prkskrs/blob/master/kindpng_9295.png" alt="prkskrs" width="300" height="300"/></p><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prkskrs&theme=dark&show_icons=true&locale=en" alt="prkskrs" /></p>
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prkskrs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### Random Developers Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
