@@ -1,10 +1,10 @@
-<h3 align="left">
+<h2 align="left">
     prkskrs
 <!--     <img src="https://github.com/CatalystsReachOut/.github/blob/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> -->
-</h3>
+</h2>
 
 I am a backend developer and data scientist that focuses on NodeJS and TypeScript. I always like creating applications using Web3, MLOPS, and AI.
 
