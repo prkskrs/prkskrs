@@ -40,9 +40,15 @@ I am a backend developer and data scientist that focuses on NodeJS and TypeScrip
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prkskrs&theme=dark&layout=compact)](https://github.com/prkskrs)
+<div style="display: flex; justify-content: center;">
+  <div style="margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prkskrs&theme=dark&layout=compact" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=prkskrs&theme=dark&show_icons=true&locale=en" />
+  </div>
+</div>
 
-<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prkskrs&theme=dark&show_icons=true&locale=en" alt="prkskrs" /></span>
 
 
 
