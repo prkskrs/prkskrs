@@ -39,9 +39,9 @@ I am a backend developer and data scientist that focuses on NodeJS and TypeScrip
 <br>
 
 ## Stats
-<span>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prkskrs&theme=dark&layout=compact)](https://github.com/prkskrs)
-</span>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prkskrs&theme=dark&layout=compact)](https://github.com/prkskrs)
+
 <span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prkskrs&theme=dark&show_icons=true&locale=en" alt="prkskrs" /></span>
 
 
