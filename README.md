@@ -40,16 +40,16 @@ I am a backend developer and data scientist that focuses on NodeJS and TypeScrip
 
 ## Stats
 
-<div style="display: flex; justify-content: center;">
-  <div style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prkskrs&theme=dark&layout=compact" />
+<div style="display: flex; flex-direction: row;">
+  <div>
+    <!-- Top Langs block -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prkskrs&theme=dark&layout=compact" alt="Top Langs">
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=prkskrs&theme=dark&show_icons=true&locale=en" />
+    <!-- Stats block -->
+    <img src="https://github-readme-stats.vercel.app/api?username=prkskrs&theme=dark&show_icons=true&locale=en" alt="Stats">
   </div>
 </div>
-
-
 
 
 
