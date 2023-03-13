@@ -6,13 +6,7 @@
          width="45" />
 </h2>
 
-I am a Backend Developer and Data Scientist who is exploring Node.js, Artificial Intelligence, and Python. I am having a strong passion to work in broad areas of IT to achieve organizational goals, personal growth, and professional satisfaction through hard work, loyalty and positive attitude.<br><br>
-🔭 I’m currently working on NLP Project. <br>
-👯 I’m looking to collaborate on MERN and Data Science Projects.<br>
-🌱 I’m currently learning Backend Developement using Node.js <br>
-💬 Ask me about Data Science (EDA/ML/AI) , Django and Node.js <br> 
-
-
+I am a Backend Developer and Data Scientist focusing on NodeJS/TypeScript.
 ---
 [![](https://visitcount.itsvg.in/api?id=prkskrs&icon=0&color=1)](https://visitcount.itsvg.in)
 
