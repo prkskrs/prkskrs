@@ -43,10 +43,10 @@ I am a backend developer and data scientist that focuses on NodeJS and TypeScrip
 
 <p><img align="right" src="https://github.com/prkskrs/prkskrs/blob/master/kindpng_9295.png" alt="prkskrs" width="300" height="300"/></p><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prkskrs&theme=dark&show_icons=true&locale=en" alt="prkskrs" /></p>
-<br>
+
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prkskrs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-<br>
+
 ### Random Developers Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
