@@ -23,12 +23,13 @@ I am a backend developer and data scientist that focuses on NodeJS and TypeScrip
 
 
 ## Get in touch
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakash-singh-89654821b/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@prkskrs) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Secure_Nose_5735/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/prkskrs) 
 
 
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+## Languages & Frameworks & Tools & Abilities
 
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -54,7 +55,7 @@ I am a backend developer and data scientist that focuses on NodeJS and TypeScrip
 
 <br>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+## ⚡ Stats ⚡
 <br>
 <p align="center">
   <div align="center">
@@ -75,6 +76,17 @@ I am a backend developer and data scientist that focuses on NodeJS and TypeScrip
 </p>
 
 
+## 🏆 GitHub Trophies 🏆
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=prkskrs&theme=darkhub&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=7" />
+</p>
+
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 
 
