@@ -15,6 +15,7 @@
 </h2>
 
 I am a backend developer and data scientist that focuses on NodeJS and TypeScript. I always like creating applications using Web3, MLOPS, and AI.
+📫 How to reach me: <a href="mailto: work.prkskrs@gmail.com">prkskrs@gmail.com</a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=prkskrs&icon=0&color=1)](https://visitcount.itsvg.in)
