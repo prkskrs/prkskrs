@@ -1,3 +1,11 @@
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Hey+There!+%F0%9F%91%8B;This+is+Prakash+Singh.....;A+passionate+backend+engineer;Nice+to+meet+you!" />
+  </a>
+</h1>
+
+
 <h2 align="left">
     prkskrs
 <!--     <img src="https://github.com/CatalystsReachOut/.github/blob/master/wave.gif" 
