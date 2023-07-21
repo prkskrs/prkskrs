@@ -28,7 +28,7 @@ I am a backend developer and data scientist that focuses on NodeJS and TypeScrip
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/prkskrs) 
 
 
-## Tech Stack
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -51,18 +51,28 @@ I am a backend developer and data scientist that focuses on NodeJS and TypeScrip
 
 <br>
 
-## Stats
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align="center">
+  <div align="center">
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width="396" src="https://github-readme-streak-stats.herokuapp.com/?user=prkskrs&theme=react&border=61dafb&hide_border=true" alt="prkskrs" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width="396" src="https://github-readme-stats.vercel.app/api?username=prkskrs&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br/><br/><br/><br/><br/><br/><br /><br /><br />
+  <div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prkskrs&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"  alt=""/>
+    </a>
+  </div>
+  <br/>
+</p>
 
-<div style="display: flex; flex-direction: row;">
-  <div>
-    <!-- Top Langs block -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prkskrs&theme=dark&layout=compact" alt="Top Langs">
-  </div>
-  <div>
-    <!-- Stats block -->
-    <img src="https://github-readme-stats.vercel.app/api?username=prkskrs&theme=dark&show_icons=true&locale=en" alt="Stats">
-  </div>
-</div>
+
+
 
 
 
