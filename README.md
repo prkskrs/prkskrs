@@ -14,7 +14,7 @@
          width="45" /> -->
 </h2>
 
-I am a backend developer and data scientist that focuses on NodeJS and TypeScript. I always like creating applications using Web3, MLOPS, and AI.<br> <br>
+I am a backend developer that focuses on NodeJS and TypeScript. I always like creating applications using Web3, MLOPS, and AI.<br> <br>
 📫 How to reach me: <a href="mailto: work.prkskrs@gmail.com">prkskrs@gmail.com</a>
 
 ---
