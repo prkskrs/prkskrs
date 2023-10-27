@@ -1,9 +1,8 @@
 
-<h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=hey+there!+%F0%9F%91%8B;this+is+prkskrs....;a+passionate+backend+engineer;nice+to+meet+you!" />
   </a>
-</h1>
+[![](https://visitcount.itsvg.in/api?id=prkskrs&icon=0&color=1)](https://visitcount.itsvg.in)
 📫 How to reach me: <a href="mailto: work.prkskrs@gmail.com">prkskrs@gmail.com</a>
 
 <!--
