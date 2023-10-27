@@ -5,6 +5,7 @@
   </a>
 </h1>
 
+<!--
 
 <h2 align="left">
     prkskrs
@@ -14,7 +15,6 @@
          width="45" /> -->
 </h2>
 
-<!--
 
 I am a backend developer that focuses on NodeJS and TypeScript. I always like creating applications using Web3, MLOPS, and AI.<br> <br>
 📫 How to reach me: <a href="mailto: work.prkskrs@gmail.com">prkskrs@gmail.com</a>
