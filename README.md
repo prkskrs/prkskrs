@@ -4,6 +4,15 @@
   </a>
 </h2>
 
+<h1 align="center">
+                  <a href="https://prkskrs.dev">
+                    <img
+                      style={{ width: "100%" }}
+                      src="https://readme-typing-svg.herokuapp.com?center=true&lines=hey+there!+👋🏻;this+is+prkskrs....;A+passionate+backend+engineer.;Nice+to+meet+you! 👋🏻"
+                      alt="titllee"
+                    />
+                  </a>
+                </h1>
 
 [![](https://visitcount.itsvg.in/api?id=prkskrs&icon=0&color=1)](https://visitcount.itsvg.in)
 📫 How to reach me: <a href="mailto: work.prkskrs@gmail.com">prkskrs@gmail.com</a>
