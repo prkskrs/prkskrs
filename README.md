@@ -9,10 +9,10 @@
 
 <h2 align="left">
     prkskrs
-<!--     <img src="https://github.com/CatalystsReachOut/.github/blob/master/wave.gif" 
+   <img src="https://github.com/CatalystsReachOut/.github/blob/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> -->
+         width="45" />
 </h2>
 
 
