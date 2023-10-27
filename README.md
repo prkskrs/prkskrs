@@ -69,8 +69,8 @@ I am a backend developer and data scientist that focuses on NodeJS and TypeScrip
   <br/>
 </p>
 
-
-/* ## 🏆 GitHub Trophies 🏆
+<!--
+ ## 🏆 GitHub Trophies 🏆
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=prkskrs&theme=darkhub&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=7" />
 </p>
@@ -82,6 +82,8 @@ I am a backend developer and data scientist that focuses on NodeJS and TypeScrip
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 */ 
+-->
+
 
 
 
