@@ -24,12 +24,16 @@ I am a backend developer that focuses on NodeJS and TypeScript. I always like cr
 
 ## Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakash-singh-89654821b/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@prkskrs) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakash-singh-89654821b/) 
+
+<!--
+[![Medium]
+(https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@prkskrs) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Secure_Nose_5735/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/prkskrs) 
 
 
-<!--
+
 ## Languages & Frameworks & Tools & Abilities
 
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
