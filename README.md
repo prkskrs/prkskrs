@@ -8,7 +8,7 @@
 [![](https://visitcount.itsvg.in/api?id=prkskrs&icon=0&color=1)](https://visitcount.itsvg.in) <br>
 📫 How to reach me: <a href="mailto: work.prkskrs@gmail.com">prkskrs@gmail.com</a>
 
-## Languages & Frameworks & Tools & Abilities
+## Languages && Frameworks && Tools && Abilities
 
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
