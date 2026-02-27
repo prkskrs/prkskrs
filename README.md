@@ -10,28 +10,23 @@
 
 ## Languages && Frameworks && Tools && Abilities
 
-<!-- AI / LLM Systems -->
 ![Agents](https://img.shields.io/badge/Agents%20%2F%20Tool--Use-111827?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG%20(Hybrid%20Retrieval)-111827?style=for-the-badge)
 ![Re--ranking](https://img.shields.io/badge/Re--ranking-111827?style=for-the-badge)
 ![Guardrails](https://img.shields.io/badge/Guardrails-111827?style=for-the-badge)
 ![LLM%20Evals](https://img.shields.io/badge/LLM%20Evals%20%26%20Observability-111827?style=for-the-badge)
-
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 ![Vector%20DB](https://img.shields.io/badge/Vector%20DB-111827?style=for-the-badge)
 [![Pinecone](https://img.shields.io/badge/Pinecone-0B0B0B?style=for-the-badge)](https://www.pinecone.io/)
 [![Redis](https://img.shields.io/badge/Redis%20(Cache)-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20(%2B%20pgvector)-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
-<!-- Backend / Infra -->
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
