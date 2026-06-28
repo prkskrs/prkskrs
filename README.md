@@ -1,1 +1,1 @@
-*founder [@yourlio](https://www.yourlio.ai/)*
+*building things that didn't exist yesterday*
